@@ -1,0 +1,7 @@
+# linux and python3.6 recommended
+language-tool-python
+spacy
+nltk
+pattern
+sympound
+jellyfish
